@@ -1,7 +1,6 @@
 Template-type: ReDIF-Archive 1.0
 Handle: RePEc:cwm
-Name: Department of Economics, College of William and Mary
-Maintainer-Email: dhe@wm.edu 
-Maintainer-Email: ampere@wm.edu
-Description: This archive collects working papers from the Departments of Economics of the College of William and Mary, Williamsburg, VA, USA
+Name: Economics Department, William & Mary
+Maintainer-Email: nat@wm.edu
+Description: This archive collects working papers from the Economics Department at William & Mary, Williamsburg, VA, USA
 URL: http://economics.wm.edu/wp/RePEc/cwm/
