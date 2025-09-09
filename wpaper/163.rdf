@@ -1,0 +1,50 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+
+Author-Name: José M. Belbute
+Author-X-Name-First: José
+Author-X-Name-Last: Belbute
+Author-Email: jbelbute@uevora.pt
+Author-Workplace-Name: Department of Economics, University of Évora, Portugal
+
+
+
+Author-Name: Alfredo Marvão Pereira
+Author-X-Name-First: Alfredo
+Author-X-Name-Last: Pereira
+Author-Email: ampere@wm.edu
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+
+Title: Does Final Energy Demand in Portugal Exhibit Long Memory?
+A Fractional Integration Analysis
+
+Abstract: In this paper, we measure the degree of fractional integration in final energy demand in Portugal
+using an ARFIMA model with and without adjustments for seasonality. We consider aggregate
+energy demand as well as final demand for petroleum, electricity, coal, and natural gas. Our
+findings suggest the presence of long memory in all of the energy demand variables. All
+fractional-difference parameters are positive and lower than 0.5 indicating that the series are
+stationary, although the mean reversion process will be slower than in the typical short run
+processes. These results have important implications for the design of energy policies. The
+effects of temporary policy shocks on final energy demand will tend to disappear slowly as a
+result of the long-memory process. This means that even transitory shocks have long lasting
+effects. Given the temporary nature of these effects, however, permanent effects on final energy
+demand require permanent policies. This is unlike what would be suggested by the more
+standard but much more limited unit root approach, which would incorrectly indicate that even
+transitory policies would have permanent effects.
+
+
+Length: 25 pages
+
+Creation-Date:  2015-08-31
+File-URL: http://economics.wm.edu/wp/cwm_wp163_rev1.pdf
+File-Format: Application/pdf
+Number: 163
+Classification-JEL:C22, O13, Q41.
+Keywords:Long memory, final energy demand, ARFIMA model, Portugal.
+
+Handle: RePEc:cwm:wpaper:163

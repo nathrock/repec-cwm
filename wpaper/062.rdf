@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:  Alfredo A. Romero
+Author-X-Name-First: Alfredo
+Author-X-Name-Last: Romero
+Author-Email:  aaromero@wm.edu
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+
+Title:  A Note on the Use of R-squared in Model Selection
+
+
+Abstract:  The use of R-squared in Model Selection is a common practice in econometrics.  The rationale is that the statistic produces a consistent estimator of the true coefficient of determination for the underlying data while taking into consideration the number of variables involved in the model.  This pursuit of parsimony comes with a cost: The researcher has no control over the error probabilities of the statistic.  Alternative measures of goodness of fit, such as the Schwarz Information Criterion, provide only a marginal improvement to the problem.  The F-Test under the Neyman-Pearson testing framework will provide the best alternative for model selection criteria.
+
+Length: 14 pages
+
+Creation-Date:  2007-10-21
+File-URL: http://economics.wm.edu/wp/cwm_wp62.pdf
+File-Format: Application/pdf
+Number: 62
+Classification-JEL: C12, C52
+Keywords: Adjusted R squared, Schwarz Information Criterion BIC, Neyman-Pearson Testing, Nonsense Correlations
+Handle: RePEc:cwm:wpaper:62

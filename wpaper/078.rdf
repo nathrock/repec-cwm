@@ -1,0 +1,50 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+Author-Name: Mary F. Evans
+Author-X-Name-First: Mary
+Author-X-Name-Last: Evans
+Author-Email:  mevans@cmc.edu	
+Author-Workplace-Name: The Robert Day School of Economics and Finance, Claremont McKenna College
+
+Author-Name: Lirong Liu
+Author-X-Name-First: Lirong
+Author-X-Name-Last: Liu
+Author-Email:  lxl004@shsu.edu	
+Author-Workplace-Name: Department of Economics and International Business, Sam Houston State University
+
+
+
+Author-Name: Sarah L. Stafford
+Author-X-Name-First: Sarah
+Author-X-Name-Last: Stafford
+Author-Email:  slstaf@wm.edu	
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+
+Title:	Do Environmental Audits Improve Long-term Compliance?
+Evidence from Manufacturing Facilities in Michigan
+
+
+Abstract:  Using a unique facility-level dataset from Michigan, we examine the effect of environmental
+auditing on manufacturing facilities’ long-term compliance with U.S. hazardous waste
+regulations. We also investigate the factors that affect facilities’ decisions to conduct
+environmental audits and whether auditing in turn affects the probability of regulatory
+inspections. We account for the potential endogeneity of our audit measure and the censoring of
+our compliance measure using a censored trivariate probit, which we estimate using simulated
+maximum likelihood. We find that larger facilities and those subject to more stringent
+regulations are more likely to audit; facilities with poor compliance records are less likely to
+audit. However, we find no significant long-run impact of auditing on the probability of a
+regulatory inspection or compliance among these Michigan manufacturing facilities.
+
+
+Length: 38 pages
+
+Creation-Date:  2008-09-25
+Revision-Date:  2011-09-25
+File-URL: http://economics.wm.edu/wp/cwm_wp78rev2.pdf
+File-Format: Application/pdf
+Number: 78
+Classification-JEL: Q53, Q58, L51
+Keywords: environmental auditing, hazardous waste, compliance, enforcement
+Handle: RePEc:cwm:wpaper:78

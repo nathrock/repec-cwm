@@ -1,0 +1,57 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+Author-Name: Jennifer L. Doleac
+Author-X-Name-First: Jennifer 
+Author-X-Name-Last: Doleac
+Author-Email: jdoleac@virginia.edu
+Author-Workplace-Name: Frank Batten School of Leadership and
+Public Policy,University of Virginia
+
+
+
+
+Author-Name: Nicholas J. Sanders
+Author-X-Name-First: Nicholas
+Author-X-Name-Last: Sanders
+Author-Email: njsanders@wm.edu
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+
+Title: Under the Cover of Darkness: Using Daylight Saving Time to Measure How Ambient Light Influences Criminal Behavior
+
+
+Abstract:  We use data from the National Incidence-Based Reporting System (NIBRS) to examine
+how the probability of getting caught when committing a crime, proxied by ambient
+daylight, impacts criminal activity. We exploit the existence of daylight saving time
+(DST) to provide within-hour exogenous shockto daylight, using both the discontinuous
+nature of DST as well as the 2007 extension of DST as sources of variation. Further, we
+consider both crimes where darkness is likely to play a role in avoiding capture and
+crimes where darkness would make little difference. Our preferred specification, a
+regression discontinuity design, shows robbery rates decrease by an average of 51%
+during the hour of sunset following the shift to DST in the spring. We also find large
+drops in cases of reported murder (48%) and rape (56%). Effects are largest during the
+hour of sunset prior to DST (i.e., the hour which was in darkness before but, post-DST,
+is now light), suggesting changes are due to ambient light rather than other factors such
+as increased police presence, and we find no changes in crimes where ambient light is
+unlikely to be a factor. As an additional robustness check, we exploit the variation in the
+impact of DST by hour and crime to repeat our analysis in a triple-difference framework
+and show results are largely consistent. Using the social cost of crime, we estimate the
+2007 spring extension of DST resulted in $558 million in avoided social costs of crime
+per year, suggesting investment in lighting such as street lights could have high returns.
+Finally, we consider if our findings are the result of increased criminal incapacitation or
+deterrence of criminal behavior, and provide suggestive evidence the majority of the
+effect is due to deterrence.
+
+Length: 44 pages
+
+Creation-Date:  2012-11-05
+File-URL: http://economics.wm.edu/wp/cwm_wp126.pdf
+File-Format: Application/pdf
+Number: 126
+Classification-JEL: K14, K4, H3
+Keywords: 
+Handle: RePEc:cwm:wpaper:126

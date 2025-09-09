@@ -1,0 +1,43 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Robert L. Hicks	
+Author-X-Name-First: Robert
+Author-X-Name-Last: Hicks
+Author-Email: rob.hicks@wm.edu
+Author-Workplace-Name:  Department of Economics, College of William and Mary
+
+Author-Name: Kurt Schnier
+Author-X-Name-First: Kurt
+Author-X-Name-Last: Schnier
+Author-Email:  schnier@uri.edu
+Author-Workplace-Name: Department of Environmental and Natural Reseource Economics, University of Rhode Island
+
+
+Title:  Dynamic Discrete Choice Modeling: Monte Carlo Analysis
+
+Abstract:  Recent work on spatial models of commercial fishing has provided insights into how spatial
+regulatory policies (i.e. Marine Protected Areas) are likely to alter the fishing location choices of
+commercial fishermen and the efficiency of these policies. The applied studies have spanned a
+diverse range of fisheries, from sedentary to highly migratory species. This literature has largely
+ignored the inter-temporal aspects of commercial fishing site choice at the cruise level.
+Therefore, these models depict fishermen as if they are ignoring how a location choice on the
+first day of a cruise may have potentially important consequences for the rest of the cruise. For
+many fisheries, particularly highly migratory ones, fishermen might choose a dynamically
+optimal cruise trajectory rather than myopic day-by-day strategies. An econometric model that
+ignores the inter-temporal aspects of location choice will likely lead to erroneous conclusions
+regarding a vessel’s response to spatial regulatory policies. A dynamic discrete choice model is
+developed herein that utilizes the same information conventionally used in static models but is
+entrenched in the principals of dynamic optimization (Bellman’s principle). Using Monte Carlo
+analysis, we evaluate the relative performance of this estimator as compared to the conventional
+static model for a variety of conditions that mimic different fishery types.
+
+Length:  42 pages
+Creation-Date:  2005-06-01
+File-URL: http://economics.wm.edu/wp/cwm_wp18.pdf
+File-Format: Application/pdf
+Number: 18
+Classification-JEL: C15, C35, Q20, Q58
+
+Keywords:  Dynamic Discrete Site Choice, Monte Carlo Simulation, Commercial
+Fishing
+
+Handle: RePEc:cwm:wpaper:18

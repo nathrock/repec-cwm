@@ -1,0 +1,66 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+
+Author-Name: Patrícia Fortes
+Author-X-Name-First: Patrícia
+Author-X-Name-Last: Fortes
+Author-Email: p.fs@fct.unl.pt
+Author-Workplace-Name: CENSE, Departamento de Ciências e Engenharia do Ambiente, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa
+
+
+
+
+
+Author-Name: Alfredo Marvão Pereira
+Author-X-Name-First: Alfredo
+Author-X-Name-Last: Pereira
+Author-Email: ampere@wm.edu
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+Author-Name: Rui M. Pereira
+Author-X-Name-First: Rui
+Author-X-Name-Last: Pereira
+Author-Email: rui.marvao.pereira@gmail.com
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+Author-Name: Júlia Seixas
+Author-X-Name-First: Júlia 
+Author-X-Name-Last: Seixas
+Author-Email: 
+Author-Workplace-Name: CENSE, Departamento de Ciências e Engenharia do Ambiente, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa
+
+
+
+Title: Integrated technological-economic modeling platform for
+energy and climate policy analysis
+
+Abstract:  Computable general equilibrium (CGE) and bottom-up models each have unique strengths and weakness
+in evaluating energy and climate policies. This paper describes the development of an integrated
+technological, economic modelling platform (HYBTEP), built through the soft-link between the bottomup
+TIMES and the CGE GEM-E3 models. HYBTEP combines cost minimizing energy technology
+choices with macroeconomic responses, which is essential for energy-climate policy assessment.
+HYBTEP advances on other hybrid tools by assuming ‘full-form’ models, integrating detailed and
+extensive technology data with disaggregated economic structure, and ‘full-link’, i.e., covering all
+ economic sectors. Using Portugal as a case study, we examine three scenarios: i) the current energyclimate
+policy, ii) a CO2 tax, and iii) renewable energy subsidy, with the objective of assessing the
+advantages of HYBTEP vis-à-vis bottom-up approach. Results show that the economic framework in
+HYBTEP partially offsets the increase or decrease in energy costs from the policy scenarios, while
+TIMES sets a wide range of results, dependent of energy services-price elasticities. HYBTEP allows the
+computation of the economic impacts of policies while considers technological detail. Moreover, the
+hybrid platform increases the transparency of policy analysis by making explicit the mechanisms through
+which energy demand evolves, resulting in high confidence for decision-making.
+
+
+Creation-Date:  2014-01-25
+File-URL: http://economics.wm.edu/wp/cwm_wp148.pdf
+File-Format: Application/pdf
+Number: 148
+Classification-JEL: 
+Keywords: bottom-up, top-down, hybrid modeling, energy-climate policy
+Handle: RePEc:cwm:wpaper:148

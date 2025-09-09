@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:  Justin B. May
+Author-X-Name-First: Justin
+Author-X-Name-Last: May
+Author-Email:  jbmay@wm.edu
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+
+Title:  International Financial Volatility and Commodity Exports: Evidence from the Thai Agricultural Sector
+
+
+
+Abstract:  While the demise of many tightly-managed exchange rate regimes has meant that exchange rate volatility has risen for most developing countries in the past few decades, there exists little consensus on the ramifications of that volatility for real sectoral performance. Using production and export data from the Bank of Thailand, this paper measures the effect of real exchange rate volatility on Thai production and export of five key agricultural commodities. I measure volatility as the moving average standard deviation of the daily real value of the baht, the residual of an ARMA(5,4) process of the monthly real value of the baht, the residual of an ARIMA(2,1,3) process of the daily real value of the baht, and as the conditional time variance of the GARCH(2,1) process of the monthly real value of the baht. I then estimate the effects of real currency fluctuations across the agricultural sectors, controlling for both the level of the real exchange rate and foreign incomes. Point estimates of the effect of real exchange rate volatility on the volume of exports are consistently negative and often statistically significant lending support to a range of theoretical models that predict such an effect. Further, I find no significant relationship between production and lagged values of real exchange rate volatility and the control variables, suggesting that volatility is not an important determinant of agricultural supply. These results are robust to the choice of any of the measures of volatility considered here.
+
+Length: 41 pages
+
+Creation-Date:  2007-10-31
+File-URL: http://economics.wm.edu/wp/cwm_wp65.pdf
+File-Format: Application/pdf
+Number: 65
+Classification-JEL: F14, O13, O24
+Keywords: Agriculture, Exchange Rate Volatility, Exports, Thailand, Trade
+Handle: RePEc:cwm:wpaper:65

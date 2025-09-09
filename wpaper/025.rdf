@@ -1,0 +1,43 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Robert L. Hicks	
+Author-X-Name-First: Robert
+Author-X-Name-Last: Hicks
+Author-Email: rob.hicks@wm.edu
+Author-Workplace-Name:  Department of Economics, College of William and Mary
+
+Author-Name: Kurt Schnier
+Author-X-Name-First: Kurt
+Author-X-Name-Last: Schnier
+Author-Email:  schnier@uri.edu
+Author-Workplace-Name: Department of Environmental and Natural Reseource Economics, University of Rhode Island
+
+
+Title:  A Spatial Model of Dolphin Avoidance in the Eastern Tropical Pacific Ocean
+
+Abstract:  This paper examines the impact of dolphin-safe eco-labeling
+and how it fundamentally altered the spatial distribution of fishing
+effort and fishermen's willingness to pay to avoid dolphins.  To do
+this, a dynamic discrete choice econometric model is applied to the
+Eastern Tropical Pacific tuna fishery. This econometric approach
+combines a dynamic programming component with the static discrete site
+choice model.  This estimator couples the current period projected
+profits associated with fishing a specific site with the value of all
+future location choices on the cruise, assuming choices are made
+optimally.  The key feature of this model is that it recovers behavioral
+parameters and solves the dynamic programming problem recursively.  The
+dynamic site choice model reveals a markedly higher impact on producers
+as compared to the commonly used static model following the labeling
+regime.  Further, in all but a few cases the common practice in dynamic
+choice models of setting discount factors equal to one is rejected.
+
+
+Length:  45 pages
+Creation-Date:  2006-01-12
+File-URL: http://economics.wm.edu/wp/cwm_wp25.pdf
+File-Format: Application/pdf
+Number: 25
+Classification-JEL: C35,Q20,Q58
+
+Keywords:  location choice, dynamic random utility modeling, dolphin-safe eco-labeling
+
+Handle: RePEc:cwm:wpaper:25

@@ -1,0 +1,39 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:  Donald E. Campbell
+Author-X-Name-First: Donald
+Author-X-Name-Last: Campbell
+Author-Email:  decamp@wm.edu
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+Author-Name:  Jerry S. Kelly
+Author-X-Name-First: Jerry
+Author-X-Name-Last: Kelly
+Author-Email:  jskelly@maxwell.syr.edu
+Author-Workplace-Name: Department of Economics, Syracuse University
+
+
+Title:  Uniformly Bounded Information and Social Choice
+
+
+
+
+Abstract:  The set of alternatives is infinite. If social welfare
+function f satisfies the Pareto criterion and there is a positive number
+&beta; such that each pair of alternatives can be socially ordered without
+having to consult individual preference over a set with more than &beta;
+alternatives then there are arbitrarily large finite subsets of X within
+which f is dictatorial when individual preferences are restricted to a
+rich subset of profiles.
+
+
+
+
+Length:  16 pages
+Creation-Date:  2007-01-31
+File-URL: http://economics.wm.edu/wp/cwm_wp49.pdf
+File-Format: Application/pdf
+Number: 49
+Classification-JEL: D70, D71
+Keywords: chromatic graphs, generalized IIA, social welfare function
+Handle: RePEc:cwm:wpaper:49

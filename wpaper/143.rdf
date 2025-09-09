@@ -1,0 +1,49 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+
+
+Author-Name: Sarah L. Stafford
+Author-X-Name-First: Sarah
+Author-X-Name-Last: Stafford
+Author-Email: slstaf@wm.edu
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+
+
+
+
+Title: How Predictable are Environmental Compliance Inspections?
+
+
+
+Abstract: The goal of this paper is to examine the timing of environmental compliance inspections and
+determine the extent to which such inspections can be predicted. The paper focuses on modeling
+the inspections at hazardous waste facilities in the U.S. using detailed data on individual
+inspections and facilities. The paper uses a number of parametric and semi-parametric duration
+models to predict the timing of inspections and finds that the Exponential model provides the
+best balance in terms of the explanatory power and simplicity of the model. However, even with
+this model it is difficult to accurately predict the timing of most compliance inspections. The
+paper also examines the extent to which using data on individual inspections can improve
+empirical predictions about aggregate inspections. If the goal is to estimate the annual number of
+inspections at hazardous waste facilities, neither the Exponential model or a Poisson model is
+clearly superior. Which model is more appropriate depends on the question the researcher wants
+to answer. Similarly, if the focus is on whether any inspection occurred in a given time period,
+the benefits of using the Exponential model depend on the nature of the questions to be
+answered. While the Exponential model performs better than a Probit model in predicting which
+entities will be inspected, it also results in a higher number of "false positives," that is predicting
+an inspection when no inspection actually occurs.
+
+
+
+
+
+Length: 39 pages
+
+Creation-Date:  2013-08-21
+File-URL: http://economics.wm.edu/wp/cwm_wp143.pdf
+File-Format: Application/pdf
+Number: 143
+Classification-JEL: 
+Keywords: Hazardous Waste, Duration Model, Inspection Timing
+Handle: RePEc:cwm:wpaper:143

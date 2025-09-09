@@ -1,0 +1,35 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+Author-Name: Alfredo Marvão Pereira
+Author-X-Name-First: Alfredo
+Author-X-Name-Last: Pereira
+Author-Email: ampere@wm.edu
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+Author-Name: Rui M. Pereira
+Author-X-Name-First: Rui
+Author-X-Name-Last: Pereira
+Author-Email: rmpereira@wm.com
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+
+Title:  GAMS Implementation and Excel Interface for Soft Link of a CGE Model for Portugal to TIMES_PT Models
+
+
+Abstract:  This document presents a description and discussion of the implementation of a soft link between a CGE Model for Portugal and the TIMES_PT energy systems model. It outlines in great detail four alterations to the model structure and GAMS code to accommodate the transfer of information from the TIMES_PT model. The fundamental logic behind the link is to allow for the TIMES_PT model to control the energy system profile, technological choice and energy substitution possibilities. The CGE model then provides the necessary framework for incorporating general equilibrium feedbacks to the exogenous economic drivers to the TIMES_PT model. The fundamental link between the two is defined with respect to total energy system costs and the resulting economic adjustments. This document describes the GAMS module for the energy sector changes to the CGE model. It provides the documentation regarding the excel spreadsheets used for data transfer across the TIMES_PT model and the CGE models. Finally, it provides detailed operational description of the procedure used to implement the linked model. In addition to providing a framework for incorporating general equilibrium feedbacks to the exogenous economic drivers of the TIMES_PT model, this link permits for the evaluation of the economic impact of technological and environmental policies evaluated within the framework of the TIMES_PT model.
+Length: 60 pages
+
+Creation-Date:  2012-10-19
+File-URL: 
+File-Format: Application/pdf
+Number: 125
+Classification-JEL: 
+Keywords: 
+Handle: RePEc:cwm:wpaper:125

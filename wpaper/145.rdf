@@ -1,0 +1,48 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+
+
+Author-Name: Lance Kent
+Author-X-Name-First: Lance
+Author-X-Name-Last: Kent
+Author-Email: lckent@wm.edu
+Author-Workplace-Name: Department of Economics, College of William and Mary
+
+Author-Name: Toan Phan
+Author-X-Name-First: Toan 
+Author-X-Name-Last: Phan
+Author-Email: toanvphan@gmail.com
+Author-Workplace-Name: Department of Economics, UNC-Chapel Hill 
+
+
+
+
+Title: Business Cycles with Revolutions
+
+
+
+Abstract: This paper develops an empirical macroeconomic framework to analyze the relationship between
+major political disruptions and business cycles of a country. We combine a new dataset of
+political revolutions (mass domestic political campaigns to remove dictators and juntas) across
+the world since 1960, with coup data and traditional macro data (of output, investment, trade,
+inflation and exchange rate). We then build a panel vector-autoregression model with two novel
+ ingredients: (1) political disruptions and (2) an estimated probability of such disruptions. We find
+that both terms have statistically and economically significant impacts on business cycles.
+Interestingly, the impacts of the second term dominate those of the first, both statistically and
+economically. This suggests that our measure of political risk captures an important source of
+time-varying uncertainty and volatility in many countries.
+
+
+
+
+
+Length: 30 pages
+
+Creation-Date:  2013-11-05
+File-URL: http://economics.wm.edu/wp/cwm_wp145.pdf
+File-Format: Application/pdf
+Number: 145
+Classification-JEL: 
+Keywords: business cycles, political risk, time-varying uncertainty, panel VAR
+Handle: RePEc:cwm:wpaper:145

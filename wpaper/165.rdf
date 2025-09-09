@@ -1,0 +1,47 @@
+Template-Type: ReDIF-Paper 1.0
+
+
+
+Author-Name: José M. Belbute
+Author-X-Name-First: José
+Author-X-Name-Last: Belbute
+Author-Email: jbelbute@uevora.pt
+Author-Workplace-Name: Department of Economics, University of Évora, Portugal
+
+
+
+Author-Name: Alfredo Marvão Pereira
+Author-X-Name-First: Alfredo
+Author-X-Name-Last: Pereira
+Author-Email: ampere@wm.edu
+Author-Workplace-Name: Department of Economics, The College of William and Mary
+
+
+
+
+
+Title: Do Global CO2 Emissions from Fossil-Fuel Consumption
+Exhibit Long Memory? A Fractional Integration Analysis
+
+Abstract: In this paper we use an ARFIMA approach to measure the degree of fractional integration of
+aggregate world CO2 emissions and its five components – coal, oil, gas, cement, and gas flaring.
+We find that all variables are stationary and mean reverting, but exhibit long-term memory.
+With aggregate CO2 emissions as a reference, our results suggest that both coal and oil
+combustion emissions have the weakest degree of long-range dependence, while emissions
+from gas, and gas flaring have the strongest. With evidence of long memory, we conclude that
+transitory policy shocks are likely to have long-lasting effects. Although the effects of any
+active policy on CO2 emissions take longer to disappear, they preserve their temporary nature.
+Accordingly, permanent effects on CO2 emissions require a more permanent policy stance. In
+this context, if one were to rely only on testing for stationarity and non-stationarity, one would
+likely conclude in favor of non-stationarity, and therefore that even transitory policy shocks
+have permanent effects. Our fractional integration analysis highlights that this is not the case.
+
+Length: 28 pages
+
+Creation-Date:  2016-04-05
+File-URL: http://economics.wm.edu/wp/cwm_wp165_rev2.pdf
+File-Format: Application/pdf
+Number: 165
+Classification-JEL:C22, O13, Q41.
+Keywords:CO2 emissions, Long memory, ARFIMA model
+Handle: RePEc:cwm:wpaper:165
